@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "types": ["testcafe"],
+    "esModuleInterop": true
+  },
+  "include": ["**/*.ts"]
+}
