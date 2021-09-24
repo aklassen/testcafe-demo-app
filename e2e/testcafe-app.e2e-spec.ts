@@ -11,6 +11,7 @@ test('header is available', async t => {
 
     
     await t
+        .wait(5000)
         .expect(headerExists).ok()
     
 });
